@@ -1,0 +1,8 @@
+#github只上传代码
+/.vs/
+/Debug/
+/GameEngine.sdf
+/GameEngine/Debug/
+/GameEngine/GameEngine.vcxproj
+/GameEngine/GameEngine.vcxproj.filters
+/GameEngine/GameEngine.vcxproj.user
